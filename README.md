@@ -1,2 +1,2 @@
 # hello-world
-testing the basics of GitHub
+I' just testing some of the GitHub basics.
